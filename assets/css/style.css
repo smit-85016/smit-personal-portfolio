@@ -1145,7 +1145,7 @@ main {
   #BLOG
 \*-----------------------------------*/
 
-/* .blog-posts {
+.blog-posts {
   margin-bottom: 10px;
 }
 
@@ -1231,7 +1231,7 @@ main {
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
   line-height: 1.6;
-} */
+}
 
 
 
